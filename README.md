@@ -21,3 +21,6 @@ https://shiteru.github.io/fez-pw-cycle-timer/
 ## メモ
 - 現在は自分用の検証ツールとして作成中です
 - FEZ内の実際の挙動を見ながらフレーム値を調整して使う想定です
+
+## スクリーンショット
+![screenshot](screenshot.png)
