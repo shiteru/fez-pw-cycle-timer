@@ -24,6 +24,3 @@ https://shiteru.github.io/fez-pw-cycle-timer/
 
 ## スクリーンショット
 ![screenshot](screenshot.png)
-
-## 公開ページ
-https://shiteru.github.io/fez-pw-cycle-timer/
