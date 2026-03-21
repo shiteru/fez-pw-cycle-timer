@@ -1,6 +1,6 @@
 # FEZ Pw Cycle Timer
 
-幻想大陸（FEZ）の Pw 回復周期を体感・確認するためのフレームベースタイマーです。
+幻想大陸（FEZ）の Pw 回復周期を体感・確認するためのフレームベースタイマーです。ぽんぽんぱっ
 
 ## 公開ページ
 https://shiteru.github.io/fez-pw-cycle-timer/
