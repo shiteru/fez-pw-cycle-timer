@@ -96,7 +96,7 @@
 
   <div class="controls">
     <button id="resetButton">リセット</button>
-    <button id="soundButton">音OFF</button>
+    <button id="soundButton">音ON</button>
   </div>
 
   <div class="controls">
@@ -255,9 +255,9 @@
 
       if (soundEnabled) {
         await ensureAudioContext();
-        soundButton.textContent = "音ON";
-      } else {
         soundButton.textContent = "音OFF";
+      } else {
+        soundButton.textContent = "音ON";
       }
     });
 
