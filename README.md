@@ -24,3 +24,5 @@ https://shiteru.github.io/fez-pw-cycle-timer/
 
 ## スクリーンショット
 ![screenshot](screenshot.png)
+
+This project is licensed under the MIT License.
